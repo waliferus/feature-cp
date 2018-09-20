@@ -1,6 +1,7 @@
 {
-    version: 1,
+    version: 2,
     attrs: {
-        attr-1: 1
+        attr-1: 1,
+        attr-2: 2
     }
 }
